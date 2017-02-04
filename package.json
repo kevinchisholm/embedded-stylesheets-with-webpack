@@ -1,0 +1,13 @@
+{
+  "name": "embedded-stylesheets-with-webpack",
+  "version": "1.0.0",
+  "description": "Embedded Stylesheets with Webpack",
+  "author": "Kevin Chisholm",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.13.0",
+    "jquery" : "3.1.1",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  }
+}

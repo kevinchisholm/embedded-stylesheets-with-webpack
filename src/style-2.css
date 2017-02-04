@@ -1,0 +1,10 @@
+h1 {
+    width:80%;
+    margin:20px auto 0;
+    padding:22px;
+    background-color:#ededed;
+    border:1px solid #ccc;
+    -webkit-border-radius: 05px;
+    -moz-border-radius: 05px;
+    border-radius: 05px;
+}
